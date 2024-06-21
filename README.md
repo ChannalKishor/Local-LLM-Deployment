@@ -36,6 +36,7 @@ Meta Llama 3, a family of models developed by Meta Inc., is a state-of-the-art m
 **Link to download Llama3:** [Llama3 Download](http://ollama.com/library/llama3)
 
 #### Interacting with Llama3 using Ollama
+`ollama run llama3` 
 
 To interact with Llama3 using its API, use the following `curl` command:
 
@@ -50,10 +51,7 @@ Similar to Step 2, download the second model, Mistral. Mistral 7B is a 7-billion
 **Link to download Mistral:** [Mistral Download](http://ollama.com/library/mistral)
 
 #### Interacting with Mistral using Ollama
-
-To run Mistral with Ollama, use the following command:
-
-`ollama run mistral` 
+`ollama run llama3` 
 
 #### Interacting with Mistral using its API
 
