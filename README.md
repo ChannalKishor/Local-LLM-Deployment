@@ -4,7 +4,7 @@ I completed this project by setting up and interacting with large language model
 
 Below is the step-by-step guide on how I did this:
 
-**YouTube Demo:** [Watch the demo](https://www.youtube.com/watch?v=KGzF60KERZ4&t=107s)
+**YouTube Demo:** [Watch the demo]([https://www.youtube.com/watch?v=KGzF60KERZ4&t=107s](https://www.youtube.com/watch?v=sGaAFlBKTwA))
 
 ## Step-by-Step Guide
 
